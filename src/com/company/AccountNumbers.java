@@ -1,6 +1,6 @@
 package com.company;
 
-final public class AccountNumber {
+final public class AccountNumbers {
     final public static int CALCULATION_WITH_BUYER = 62;
     final public static int CASH = 50;
     final public static int CALCULATION_WITH_SUPPLIERS = 60;
